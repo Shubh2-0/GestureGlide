@@ -66,9 +66,9 @@ Game Screenshot
 Contributions are welcome! Here's how you can contribute to this project:
 
 1. Fork the repository.
-2. Create a new branch for your feature: git checkout -b feature-new-feature
-3. Commit your changes: git commit -m 'Add new feature'
-4. Push to the branch: git push origin feature-new-feature
+2. Create a new branch for your feature:  **git checkout -b feature-new-feature** 
+3. Commit your changes: **git commit -m 'Add new feature'** 
+4. Push to the branch: **git push origin feature-new-feature** 
 5. Open a pull request.
 
 
