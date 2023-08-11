@@ -54,6 +54,7 @@ python game.py
 ## Video Presentation 📹
 Curious about how GestureGlide works? Watch our detailed video presentation to see the gameplay in action and learn more about the project's features.
 
+📹 [GestureGlide Video Presentation](https://drive.google.com/file/d/13X3C0e1x8AnrUxCu7neQApnYZVWjo7gY/view?usp=sharing)
 
 ## Tools Used 🛠️
 
