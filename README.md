@@ -12,7 +12,6 @@ Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented usin
 - [Controls](#controls)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features 🎮
 
@@ -24,19 +23,19 @@ Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented usin
 
 ## Installation ⚙️
 
-1. Clone the repository:
+📌 Clone the repository:
 
    ```bash
    git clone https://github.com/Shubh2-0/gesture-glide.git
    cd gesture-glide
 
-1. Install the required libraries:
+📌 Install the required libraries:
 
 bash
 ``
 pip install opencv-python cvzone
 ``
-2. Place your background image and move images in the resources/ directory.
+📌 Place your background image and move images in the resources/ directory.
 
 Usage 🚀
 1. Run the game script:
