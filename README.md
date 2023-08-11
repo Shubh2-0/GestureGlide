@@ -64,7 +64,7 @@ Curious about how GestureGlide works? Watch our detailed video presentation to s
       <br>Python 
     </td>
     <td align="center" width="170">
-      <img src="Images/PyCharm.png" width="45" height="45" alt="PyCharm" />
+      <img src="images/PyCharm.png" width="45" height="45" alt="PyCharm" />
       <br>PyCharm
     </td>
     <td align="center" width="170">
