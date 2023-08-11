@@ -30,23 +30,25 @@ Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented usin
    git clone https://github.com/Shubh2-0/gesture-glide.git
    cd gesture-glide
 
-Install the required libraries:
+1. Install the required libraries:
 
 bash
+``
 pip install opencv-python cvzone
-Place your background image and move images in the resources/ directory.
+``
+2. Place your background image and move images in the resources/ directory.
 
 Usage 🚀
-Run the game script:
+1. Run the game script:
 
 ``
 python game.py
 ``
-Press the 'x' key to start the game after the webcam feed is displayed.
+2. Press the 'x' key to start the game after the webcam feed is displayed.
 
-Show your hand gesture to select Rock, Paper, or Scissors when the timer reaches 3 seconds.
+3. Show your hand gesture to select Rock, Paper, or Scissors when the timer reaches 3 seconds.
 
-The AI will make its move simultaneously, and the winner of the round will be displayed.
+4. The AI will make its move simultaneously, and the winner of the round will be displayed.
 
 Controls 🎮
 Press 'x': Start the game.
@@ -58,17 +60,17 @@ Game Screenshot
 Contributing 🤝
 Contributions are welcome! Here's how you can contribute to this project:
 
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-new-feature
-Commit your changes: git commit -m 'Add new feature'
-Push to the branch: git push origin feature-new-feature
-Open a pull request.
-License 📄
-This project is licensed under the MIT License.
+1. Fork the repository.
+2. Create a new branch for your feature: git checkout -b feature-new-feature
+3. Commit your changes: git commit -m 'Add new feature'
+4. Push to the branch: git push origin feature-new-feature
+5. Open a pull request.
+
+
 
 Enjoy the game and have fun playing GestureGlide, where hand gestures pave the way to victory! 🎉👾
 
-vbnet
+vb net
 Copy code
 
 Now your README is personalized for your "GestureGlide" project with emojis and the project's name incorporated throughout the do
