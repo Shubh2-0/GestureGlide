@@ -6,11 +6,11 @@ Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented usin
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Features](##features)
+- [Installation](##installation)
+- [Usage](##usage)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
+- [Screenshots](##screenshots)
 - [Contributing](#contributing)
 
 ## Features 🎮
