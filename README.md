@@ -37,7 +37,7 @@ pip install opencv-python cvzone
 ``
 python game.py
 ``
-\n
+
 
 ✴️  Press the 'x' key to start the game after the webcam feed is displayed.
 
