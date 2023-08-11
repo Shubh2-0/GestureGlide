@@ -25,7 +25,7 @@ Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented usin
 
 📌 Clone the repository:
 
-bash
+
 ``
    git clone https://github.com/Shubh2-0/gesture-glide.git
    cd gesture-glide
@@ -33,7 +33,7 @@ bash
 
 📌 Install the required libraries:
 
-bash
+
 ``
 pip install opencv-python cvzone
 ``
