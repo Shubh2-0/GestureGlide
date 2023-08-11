@@ -37,6 +37,7 @@ pip install opencv-python cvzone
 ``
 python game.py
 ``
+
 ✴️  Press the 'x' key to start the game after the webcam feed is displayed.
 
 ✴️  Show your hand gesture to select Rock, Paper, or Scissors when the timer reaches 3 seconds.
