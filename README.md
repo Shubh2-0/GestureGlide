@@ -2,7 +2,7 @@
 
 Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented using Python and OpenCV. Play against an AI opponent and use hand gestures to determine your move! 🤖🪨📃✂️
 
-![Gameplay Demo](GestureGlide/hero.png)
+![Gameplay Demo](images/hero.png)
 
 ## Table of Contents
 
@@ -66,7 +66,7 @@ Video Presentation
 Contributing 🤝
 
 ## Screenshots 📸
-![Gameplay Demo](GestureGlide/setup.png)
+![Gameplay Demo](images/setup.png)
 
 ## Contributing 🤝
 Contributions are welcome! Here's how you can contribute to this project:
