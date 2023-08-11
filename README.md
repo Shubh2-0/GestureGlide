@@ -4,15 +4,6 @@ Welcome to GestureGlide, a captivating Rock-Paper-Scissors game implemented usin
 
 ![Gameplay Demo](images/hero.png)
 
-## Table of Contents
-
-- [Features](##features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Controls](#controls)
-- [Screenshots](##screenshots)
-- [Contributing](#contributing)
-
 ## Features 🎮
 
 - Real-time hand tracking using OpenCV.
@@ -58,15 +49,34 @@ python game.py
 
 🎯 Gesture your hand to select Rock, Paper, or Scissors.
 
-Video Presentation 📹
+![Gameplay Demo](images/setup.png)
+
+## Video Presentation 📹
 Curious about how GestureGlide works? Watch our detailed video presentation to see the gameplay in action and learn more about the project's features.
 
-Video Presentation
 
-Contributing 🤝
+## Tools Used 🛠️
 
-## Screenshots 📸
-![Gameplay Demo](images/setup.png)
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="images/python_18894.png" width="48" height="48" alt="Python" />
+      <br>Python 
+    </td>
+    <td align="center" width="170">
+      <img src="Images/PyCharm.png" width="45" height="45" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="170">
+      <img src="images/github.png" width="45" height="45" alt="Github" />
+      <br>Github
+    </td>
+  </tr>
+ 
+</table>
+
+
+
 
 ## Contributing 🤝
 Contributions are welcome! Here's how you can contribute to this project:
