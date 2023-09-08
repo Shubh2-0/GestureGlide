@@ -91,7 +91,6 @@ Contributions are welcome! Here's how you can contribute to this project:
 5. Open a pull request.
 
 
-Enjoy the game and have fun playing GestureGlide, where hand gestures pave the way to victory! 🎉👾
 
 
 ## 📬 Contact
@@ -103,6 +102,12 @@ If you want to contact me, you can reach me through below handles.
   <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
   <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
  </p>
+
+<br>
+
+<div align="center">
+  <strong>🚀Enjoy the game and have fun playing GestureGlide, where hand gestures pave the way to victory! 🎉👾</strong>
+</div>
 
 
 
