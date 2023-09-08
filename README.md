@@ -4,7 +4,7 @@ Welcome to GestureGlide, an enthralling Rock-Paper-Scissors game meticulously cr
 
 ![Gameplay Demo](images/hero.png)
 
-## Features 🎮
+## Features 🎮 
  
 - Real-time hand tracking using OpenCV.
 - Play against an AI that randomly selects Rock, Paper, or Scissors.
