@@ -11,7 +11,7 @@ Welcome to GestureGlide, an enthralling Rock-Paper-Scissors game meticulously cr
 - Interactive timer to track game duration ⏱️.
 - Visual representation of your move and AI's move 🤏.
 - Keeps track of player and AI scores 📊.
-
+ 
 ## Installation ⚙️
 
 📌 Clone the repository:
