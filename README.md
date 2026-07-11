@@ -109,19 +109,7 @@ If you want to contact me, you can reach me through below handles.
   <strong>🚀Enjoy the game and have fun playing GestureGlide, where hand gestures pave the way to victory! 🎉👾</strong>
 </div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
